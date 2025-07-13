@@ -1,0 +1,1 @@
+import"../chunks/NZTpNUN0.js";import"../chunks/DR9r6RPf.js";import{j as t,k as a,l as e}from"../chunks/Cq4Xyxph.js";var r=t("<h1>About</h1> <p>Non-intuitively, perhaps sub-pages of Svelte's deploy appear.</p>",1);function i(p){var o=r();e(2),a(p,o)}export{i as component};
