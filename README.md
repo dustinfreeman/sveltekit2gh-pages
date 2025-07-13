@@ -25,14 +25,12 @@ npm run dev
 npm run dev -- --open
 ```
 
-## Building
+## Deploying to GH Pages
 
-To create a production version of your app:
-
-```bash
+Must be done manually:
+```
 npm run build
+npm run deploy
 ```
 
 You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
