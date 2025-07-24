@@ -1,2 +1,2 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<h1>Test Repo for SvelteKit to Github Pages</h1>
+<p>Source code <a href="https://github.com/dustinfreeman/sveltekit2gh-pages">here</a></p>
